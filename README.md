@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shubhamkapil04" alt="shubhamkapil04" /></a> </p>
 
-<img align="right" alt="Coding" width="350" src="https://github.com/ShubhamKapil04/ShubhamKapil04/blob/main/97525-code-dark.gif">
+<img align="right" alt="Coding" width="400"src="https://github.com/ShubhamKapil04/ShubhamKapil04/blob/main/97525-code-dark.gif">
 
 - 🌱 I’m currently learning **Python**
 
