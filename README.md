@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shubhamkapil04" alt="shubhamkapil04" /></a> </p>
 
-<img align="right" alt ="Coding" width="400" scr="">
+<img align="right" alt="Coding" width="400" src="https://lottiefiles.com/27421-installing-program ">
 
 - 🌱 I’m currently learning **Python**
 
