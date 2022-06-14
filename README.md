@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on **Something exciting**
 
-- 🌱 I’m currently learning **Python**
+- 🌱 I’m currently learning **Kotlin**
 
 - 🤝 I’m looking for help with **Learning new Tech**
 
