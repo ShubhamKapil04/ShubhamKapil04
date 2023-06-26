@@ -5,7 +5,7 @@ Software Developer
 -----------------
 
 * 🌍  I'm based in Chandigarh
-* ✉️  You can contact me at [skaplesh720@gmail.com](mailto:skaplesh720@gmail.com)
+* ✉️  You can contact me at [skaplesh720@gmail.com](mailto:shubham.kapil049@gmail.com)
 * 🚀  I'm currently working on [MVVM](http://https://github.com/ShubhamKapil04/Android/tree/main/Employee)
 * 🧠  I'm learning Python & Machine Learning
 * 🤝  I'm open to collaborating on Android
