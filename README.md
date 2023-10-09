@@ -18,6 +18,11 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=ShubhamKapil04&theme=radical&no-frame=true&no-bg=false&margin-w=4)
 
+## HACKTOBERFEST
+[![An image of @shubhamkapil04's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/shubhamkapil04)](https://holopin.io/@shubhamkapil04)
+[![An image of @shubhamkapil04's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/shubhamkapil04)](https://holopin.io/@shubhamkapil04)
+[![An image of @shubhamkapil04's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/shubhamkapil04)](https://holopin.io/@shubhamkapil04)
+
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
