@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Shubham Kapil
 =====================================================================================================================================
----
-[![](https://visitcount.itsvg.in/api?id=ShubhamKapil04&icon=0&color=0)](https://visitcount.itsvg.in)# 💫 About Me:
+
+## 💫 About Me:
 🌍 I'm based in Bangalore<br>🚀 I'm currently working on Python<br>🤝 I'm open to collaborating on Android
 
 
