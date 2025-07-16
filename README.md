@@ -2,7 +2,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 =====================================================================================================================================
 
 ## 💫 About Me:
-🌍 I'm based in Bangalore<br>🚀 I'm currently working on React-Native<br>🤝 I'm open to collaborating on Android
+🌍 I'm based in Bangalore<br>🚀 I'm currently working on React-Native<br>🤝 I'm open to collaborating on Android/IOS
 
 
 ## 🌐 Socials:
