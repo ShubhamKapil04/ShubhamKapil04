@@ -1,6 +1,3 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Shubham Kapil
-=====================================================================================================================================
-
 # 💫 About Me:
 🔭 I’m currently working on building and scaling **Gymuzzi**, a production mobile app using React Native & Expo  <br>👯 I’m looking to collaborate on **React Native or Expo and mobile app projects**  <br>🤝 I’m looking for help with **advanced animations, performance optimization, and native modules**  <br>🌱 I’m currently learning **advanced React Native patterns and native integrations (Android/iOS)**  <br>💬 Ask me about **React Native, mobile app architecture, UI/UX implementation, and debugging**  <br>⚡ Fun fact: I love polishing micro-interactions until they *feel* just right
 
